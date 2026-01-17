@@ -1,8 +1,9 @@
-To install the mod:
+To install and play the mod:
 1. Download 'data.win'.
-2. Find the Öoo's game files on your computer, likely under 'C:\Users\\\<user>\SteamLibrary\steamapps\common\Ooo'.
-3. Delete 'data.win' from 'SteamLibrary\steamapps\common\Ooo' and replace it with the 'data.win' file you downloaded.
-4. If Öoo is open, close it.
-5. Re-open Öoo.
-6. Clear your save data. (Pause Menu > Document Icon > Trash Icon > Checkmark)
-7. Congrats on setting up the mod!
+2. Find Öoo's game files on your computer (Under 'SteamLibrary\steamapps\common\Ooo') and replace 'data.win'.
+3. Close Öoo if it is open.
+4. Re-open Öoo and clear your save data. (Pause Menu > Document Icon > Trash Icon > Checkmark)
+
+To revert back to the vanilla game:
+1. Right Click Öoo in your Steam Library.
+2. Click on Properties > Installed Files > Verify integrity of game files
